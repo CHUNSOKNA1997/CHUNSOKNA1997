@@ -2,10 +2,13 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" width="270"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.facebook.com/sokna.chun.1997/">
     <img src="https://img.shields.io/badge/Facebookk-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/chunSokna_cs">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chun-sokna-449bba32b/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
