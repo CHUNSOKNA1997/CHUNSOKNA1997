@@ -1,32 +1,29 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" width="270"/>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Facebookk-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
 </div>
 
 ### :woman_technologist: About Me :
-- 👋 Hi, I’m CHUN SOKNA
-- 👀 I’m interested in computer science 
-- 🌱 I’m currently studying computer science at the University of Phnom Penh, and he is expected to graduate in 2026.
-- 💞 "I am a highly skilled and motivated individual with a passion for technology and its application in solving real-world problems. I am also deeply committed to helping others and actively engaged in my community. My expertise includes C, C++, HTML, CSS, Tailwind, ReactJS, PHP, Laravel, and SQL, with experience in developing dynamic websites."
+- 👋 Hi, I’m CHUN SOKNA.
+- 👀 I’m interested in Computer Science. 
+- 🌱 I’m currently a third-year student in Computer Science at the Royal University of Phnom Penh, and he is expected to graduate in 2026.
+- 💞 "I am a highly skilled and motivated individual with a passion for technology and its application in solving real-world problems. <br/> I am also deeply committed to helping others and actively engaged in my community. My expertise includes C, C++, HTML, CSS, Tailwind, ReactJS, PHP, Laravel, and SQL, with experience in developing dynamic websites."
 
 
 | **Profile stats** | **Streak stats** |
 |:---:|:---:|
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SeangLeng&show_icons=true&locale=en" alt="SeangLeng" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHUNSOKNA1997&" alt="CHUNSOKNA1997" /></p> ||
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CHUNSOKNA1997&show_icons=true&locale=en" alt="CHUNSOKNA1997" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHUNSOKNA1997&" alt="CHUNSOKNA1997" /></p> ||
 
 ###  Languages and Tools :
 ---
 | **Back-End**  | **Front-End** | **Database** |
 |:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp; <br/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="70"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="70"/>&nbsp; <br/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp; <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="70px" height="70px"></a> <br/> <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="70px" height="70px"></a> | <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="70px" height="70px"></a> <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="70px" height="70px"></a> <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="70px" height="70px"></a>  ||
+| <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="70" height="70"/>&nbsp; <br/> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="70"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="70"/>&nbsp; <br/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp; <a href="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"></a> <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="70px" height="70px"></a> | <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="70px" height="70px"></a>  ||
