@@ -18,7 +18,7 @@
 - 👋 Hi, I’m CHUN SOKNA.
 - 👀 I’m interested in Computer Science. 
 - 🌱 I’m currently a third-year student in Computer Science at the Royal University of Phnom Penh, and he is expected to graduate in 2026.
-- 💞 "I am a highly skilled and motivated individual with a passion for technology and its application in solving real-world problems. <br/> I am also deeply committed to helping others and actively engaged in my community. My expertise includes C, C++, HTML, CSS, Tailwind, ReactJS, PHP, Laravel, and SQL, with experience in developing dynamic websites."
+- 💞 "I am a highly skilled and motivated individual with a passion for technology and its application in solving real-world problems. <br/> I am also deeply committed to helping others and actively engaged in my community. My expertise includes C, C++, HTML, CSS,JavaScript, Tailwind CSS, ReactJS, PHP, Laravel, and MySQL, with experience in developing dynamic websites."
 
 
 | **Profile stats** | **Streak stats** |
