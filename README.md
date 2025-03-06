@@ -23,7 +23,7 @@
 
 | **Profile stats** | **Streak stats** |
 |:---:|:---:
-| <div align="center" style="align-items: center; justify-content: center;"> <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=CHUNSOKNA1997&show_icons=true&locale=en" alt="CHUNSOKNA1997" /></p> | <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=CHUNSOKNA1997&" alt="CHUNSOKNA1997" /></p> </div>  ||
+| <div align="center" style="align-items: center; justify-content: center;"> <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=CHUNSOKNA1997&show_icons=true&locale=en" alt="CHUNSOKNA1997" /></p> | <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=CHUNSOKNA1997" alt="CHUNSOKNA1997" /></p> </div>  ||
 
 ###  Languages and Tools :
 ---
