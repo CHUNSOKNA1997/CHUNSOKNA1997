@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chun Sokna
+# 👋 Hi, I'm SOKNA Chun
 
 <div align="center">
   <strong>💻 Web Developer | 🎓 Computer Science Student | 🌏 Phnom Penh, Cambodia</strong>
@@ -42,7 +42,7 @@ const chunSokna: Developer = {
 🌍 **Based in:** Phnom Penh, Cambodia  
 💡 **Passionate about:** Creating solutions that make a difference  
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack I Used
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
