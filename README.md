@@ -26,8 +26,8 @@ const chunSokna: Developer = {
   education: "Computer Science @ RUPP",
   languages: ["JavaScript", "TypeScript", "PHP", "SQL", "HTML", "CSS"],
   technologies: {
-    frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS"],
-    backend: ["Laravel", "Inertia.js"],
+    frontend: ["Next.js", "React", "Vue.js", "Tailwind CSS"],
+    backend: ["PHP", "Laravel", "Inertia.js"],
     database: ["MySQL", "SQLite"],
     tools: ["Git", "Postman"]
   },
