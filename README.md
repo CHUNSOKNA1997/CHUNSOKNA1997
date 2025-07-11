@@ -24,7 +24,7 @@ const chunSokna: Developer = {
   role: "Full Stack Developer",
   location: "Phnom Penh, Cambodia 🇰🇭",
   education: "Computer Science @ RUPP",
-  languages: ["JavaScript", "TypeScript", "PHP", "SQL", "HTML", "CSS"],
+  languages: ["Khmer", "English"],
   technologies: {
     frontend: ["Next.js", "React", "Vue.js", "Tailwind CSS"],
     backend: ["PHP", "Laravel", "Inertia.js"],
