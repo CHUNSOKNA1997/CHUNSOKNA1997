@@ -78,11 +78,6 @@ const chunSokna: Developer = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUNSOKNA1997&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="200"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CHUNSOKNA1997&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
 ## 💼 What I'm Working On
 
 - 🔭 Building full-stack web applications with Laravel and React
