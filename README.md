@@ -21,7 +21,7 @@ interface Developer {
 
 const chunSokna: Developer = {
   name: "Chun Sokna",
-  role: "Full Stack Developer",
+  role: "Web Developer",
   location: "Phnom Penh, Cambodia 🇰🇭",
   education: "Computer Science @ RUPP",
   languages: ["Khmer", "English"],
