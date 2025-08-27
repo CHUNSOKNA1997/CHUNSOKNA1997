@@ -1,114 +1,61 @@
-# 👋 Hi, I'm SOKNA Chun
+# ​Hi, I'm Chun Sokna
 
-<div align="center">
-  <strong>💻 Web Developer | 🎓 Computer Science Student | 🌏 Phnom Penh, Cambodia</strong>
-</div>
+**💻 Web Developer | 🎓 CS Student @ RUPP | 🌏 Phnom Penh, Cambodia**
 
-## 🚀 About Me
+##​ About Me
 
-```javascript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  education: string;
-  languages: string[];
-  technologies: Record<string, string[]>;
-  currentFocus: string;
-  goals: string[];
-  funFact: string;
-}
+Computer Science student passionate about building scalable web applications. Expected graduation in 2026.
 
-const chunSokna: Developer = {
-  name: "Chun Sokna",
-  role: "Web Developer",
-  location: "Phnom Penh, Cambodia 🇰🇭",
-  education: "Computer Science @ RUPP",
-  languages: ["Khmer", "English"],
-  technologies: {
-    frontend: ["Next.js", "React", "Vue.js", "Tailwind CSS"],
-    backend: ["PHP", "Laravel", "Inertia.js"],
-    database: ["MySQL", "SQLite"],
-    tools: ["Git", "Postman"]
-  },
-  currentFocus: "Building scalable web applications",
-  goals: ["Contributing to Open Source", "System Design Mastery"],
-  funFact: "I can debug faster than I can explain the bug! 🐛"
-};
-```
+---
 
-🎓 **Computer Science Student** at Royal University of Phnom Penh  
-📅 **Expected Graduation:** 2026  
-🌍 **Based in:** Phnom Penh, Cambodia  
-💡 **Passionate about:** Creating solutions that make a difference  
+## ​​Tech Stack
 
-## 🛠️ Tech Stack I Used
+### Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vuejs,typescript,javascript,tailwindcss&theme=dark&perline=6" alt="Frontend Icons" />
+</p>
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,expressjs,inertia&theme=dark&perline=5" alt="Backend Icons" />
+</p>
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-<a href="https://inertiajs.com" target="_blank">
-  <img src="https://img.shields.io/badge/Inertia.js-4B5563?style=for-the-badge&logo=Inertia&logoColor=white" alt="Inertia.js Badge" />
-</a>
+### Database & Tools  
+<p align="leftf">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,prisma,git,vscode,postman,termius&theme=dark&perline=9" alt="Database & Tools Icons" />
+</p>
 
+---
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## ​Featured Projects
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🚀 [Articles Web](https://github.com/CHUNSOKNA1997/articles-web-inertiajs.git)  
+A modern article management system built with <strong> Inertia.js, ReactJs, and Laravel</strong> for seamless SPA experience without API complexity.
 
-## 📊 GitHub Stats
+### ​🚀 [Laravel API](https://github.com/CHUNSOKNA1997/laravel-api.git)  
+A robust REST API built with <strong>Laravel</strong> featuring authentication and data validation.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHUNSOKNA1997&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUNSOKNA1997&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="200"/>
-</div>
+---
 
-## 💼 What I'm Working On
+## ​GitHub Stats
 
-- 🔭 Building full-stack web applications with Laravel and React
-- 🌱 Learning advanced JavaScript patterns and system design
-- 👯 Looking to collaborate on open source projects
-- 💡 Exploring new technologies and best practices
-- 📚 Preparing for my final year in Computer Science
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHUNSOKNA1997&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chun-sokna-449bba32b/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sokna.chun.1997/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chunSokna_cs)
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHUNSOKNA1997&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUNSOKNA1997&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CHUNSOKNA1997&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+## ​Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/chun-sokna-449bba32b/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/sokna.chun.1997/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark" alt="Facebook" />
+  </a>
+  <a href="https://t.me/chunSokna_cs">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=dark" alt="Telegram" />
+  </a>
 </div>
-
----
-
-⭐️ From [CHUNSOKNA1997](https://github.com/CHUNSOKNA1997)
