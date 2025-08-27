@@ -2,7 +2,7 @@
 
 **💻 Web Developer | 🎓 CS Student @ RUPP | 🌏 Phnom Penh, Cambodia**
 
-##​ About Me
+## ​​About Me
 
 Computer Science student passionate about building scalable web applications. Expected graduation in 2026.
 
