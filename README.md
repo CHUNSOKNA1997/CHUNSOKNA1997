@@ -29,7 +29,7 @@ Computer Science student passionate about building scalable web applications. Ex
 
 ## ​Featured Projects
 
-### 🚀 [Articles Web](https://github.com/CHUNSOKNA1997/articles-web-inertiajs.git)  
+### 🚀 [E-News Platform](https://github.com/CHUNSOKNA1997/articles-web-inertiajs.git)  
 A modern article management system built with <strong> Inertia.js, ReactJs, and Laravel</strong> for seamless SPA experience without API complexity.
 
 ### ​🚀 [Laravel API](https://github.com/CHUNSOKNA1997/laravel-api.git)  
