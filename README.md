@@ -4,7 +4,7 @@
 
 ## ​​About Me
 
-Computer Science student passionate about building scalable web applications. Expected graduation in 2026.
+A 4th Year Computer Science student passionate about building scalable web applications. Expected graduation in 2026.
 
 ---
 
@@ -22,7 +22,7 @@ Computer Science student passionate about building scalable web applications. Ex
 
 ### Database & Tools  
 <p align="leftf">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,prisma,git,vscode,postman,termius&theme=dark&perline=9" alt="Database & Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,git,postman,figma&theme=dark&perline=9" alt="Database & Tools Icons" />
 </p>
 
 ---
