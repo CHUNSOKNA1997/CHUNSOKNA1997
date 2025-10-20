@@ -22,7 +22,7 @@ A 4th Year Computer Science student passionate about building scalable web appli
 
 ### Database & Tools  
 <p align="leftf">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,git,postman,figma&theme=dark&perline=9" alt="Database & Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,git,postman,figma,aws&theme=dark&perline=9" alt="Database & Tools Icons" />
 </p>
 
 ---
