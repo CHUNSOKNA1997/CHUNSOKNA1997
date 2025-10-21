@@ -2,12 +2,6 @@
 
 **💻 Software Engineer | 🎓 CS Student @ RUPP | 🌏 Phnom Penh, Cambodia**
 
-## ​​About Me
-
-A 4th Year Computer Science student passionate about building scalable web applications. Expected graduation in 2026.
-
----
-
 ## ​​Tech Stack
 
 ### Frontend  
@@ -20,9 +14,14 @@ A 4th Year Computer Science student passionate about building scalable web appli
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,expressjs,inertia&theme=dark&perline=5" alt="Backend Icons" />
 </p>
 
-### Database & Tools  
+### Database
 <p align="leftf">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,git,postman,figma,aws&theme=dark&perline=9" alt="Database & Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark&perline=9" alt="Database & Tools Icons" />
+</p>
+
+### Tools  
+<p align="leftf">
+  <img src="https://skillicons.dev/icons?i=git,figma,docker,aws&theme=dark&perline=9" alt="Database & Tools Icons" />
 </p>
 
 ---
