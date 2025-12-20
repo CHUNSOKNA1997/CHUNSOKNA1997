@@ -11,7 +11,7 @@
 
 ### Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,expressjs,inertia&theme=dark&perline=5" alt="Backend Icons" />
+  <img src="https://skillicons.dev/icons?i=laravel,expressjs,spring&theme=dark&perline=5" alt="Backend Icons" />
 </p>
 
 ### Database
