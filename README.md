@@ -1,8 +1,8 @@
-# ​Hi, I'm Chun Sokna
+# Hi, I'm Chun Sokna
 
 **💻 Software Engineer | 🎓 CS Student @ RUPP | 🌏 Phnom Penh, Cambodia**
 
-## ​​Tech Stack
+## Tech Stack
 
 ### Frontend  
 <p align="left">
@@ -15,28 +15,28 @@
 </p>
 
 ### Database
-<p align="leftf">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark&perline=9" alt="Database & Tools Icons" />
 </p>
 
 ### Tools  
-<p align="leftf">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,figma,docker,aws&theme=dark&perline=9" alt="Database & Tools Icons" />
 </p>
 
 ---
 
-## ​Featured Projects
+## Featured Projects
 
 ### 🚀 [E-News Platform](https://github.com/CHUNSOKNA1997/articles-web-inertiajs.git)  
 A modern news management system built with <strong> Inertia.js, ReactJs, and Laravel</strong> for seamless SPA experience without API complexity.
 
-### ​🚀 [Laravel API](https://github.com/CHUNSOKNA1997/laravel-api.git)  
+### 🚀 [Laravel API](https://github.com/CHUNSOKNA1997/laravel-api.git)  
 A robust REST API built with <strong>Laravel</strong> featuring authentication and data validation.
 
 ---
 
-## ​GitHub Stats
+## GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CHUNSOKNA1997&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
@@ -45,7 +45,7 @@ A robust REST API built with <strong>Laravel</strong> featuring authentication a
 
 ---
 
-## ​Connect With Me
+## Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chun-sokna-449bba32b/">
