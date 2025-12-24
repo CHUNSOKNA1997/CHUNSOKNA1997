@@ -1,6 +1,9 @@
 <div align="center">
 
-# 👋 Hello, I'm Chun Sokna
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello, I'm Chun Sokna
+</h1>
 
 </div>
 
@@ -16,6 +19,7 @@ I enjoy building **scalable backend systems**, working with **modern web technol
 ## 🚀 Tech Stack & Tools
 
 <img src="https://skillicons.dev/icons?i=java,spring,laravel,react,nextjs,typescript,javascript,html,css,tailwind,mysql,postgresql,docker,git,aws&theme=dark" />
+
 
 </div>
 
