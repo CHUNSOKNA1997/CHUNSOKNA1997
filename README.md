@@ -1,60 +1,52 @@
-# Hi, I'm Chun Sokna
+<div align="center">
 
-**💻 Software Engineer | 🎓 CS Student @ RUPP | 🌏 Phnom Penh, Cambodia**
+# 👋 Hello, I'm Chun Sokna
 
-## Tech Stack
+</div>
 
-### Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vuejs,typescript,javascript,tailwindcss&theme=dark&perline=6" alt="Frontend Icons" />
-</p>
+Welcome to my GitHub profile!  
+I'm a **Software Engineer** and **Computer Science student at RUPP**.
 
-### Backend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,expressjs,spring&theme=dark&perline=5" alt="Backend Icons" />
-</p>
-
-### Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark&perline=9" alt="Database & Tools Icons" />
-</p>
-
-### Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,docker,aws&theme=dark&perline=9" alt="Database & Tools Icons" />
-</p>
+I enjoy building **scalable backend systems**, working with **modern web technologies**.
 
 ---
 
-## Featured Projects
+<div align="center">
 
-### 🚀 [E-News Platform](https://github.com/CHUNSOKNA1997/articles-web-inertiajs.git)  
-A modern news management system built with <strong> Inertia.js, ReactJs, and Laravel</strong> for seamless SPA experience without API complexity.
+## 🚀 Tech Stack & Tools
 
-### 🚀 [Laravel API](https://github.com/CHUNSOKNA1997/laravel-api.git)  
-A robust REST API built with <strong>Laravel</strong> featuring authentication and data validation.
+<img src="https://skillicons.dev/icons?i=java,spring,laravel,react,nextjs,typescript,javascript,html,css,tailwind,mysql,postgresql,docker,git,aws&theme=dark" />
+
+</div>
 
 ---
 
-## GitHub Stats
+## 💻 Projects I'm Proud Of
 
-<div align="left">
+### 🚀 [Spring Boot Shopping Cart API](https://github.com/CHUNSOKNA1997/spring-boot-shopping-cart-api)
+A Spring Boot REST API with JWT authentication.
+
+### 🚀 [Smart Parking Back-End](https://github.com/CHUNSOKNA1997/smart-parking-system)
+A production-ready smart parking backend for Mobile App.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CHUNSOKNA1997&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUNSOKNA1997&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
 
-## Connect With Me
+## 📬 Get in Touch
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/chun-sokna-449bba32b/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/sokna.chun.1997/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark" alt="Facebook" />
-  </a>
-  <a href="https://t.me/chunSokna_cs">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=dark" alt="Telegram" />
-  </a>
-</div>
+- 💼 [LinkedIn](https://www.linkedin.com/in/chun-sokna-449bba32b/)
+- 📧 chun.sokna.1222@gmail.com
+- 💬 [Telegram](https://t.me/chunSokna_cs)
+
+---
+
+Thanks for visiting!  
+_I’m always learning and building — feel free to explore my repositories or reach out._
