@@ -1,56 +1,18 @@
-<div align="center">
+<h1 align="left">Hi 👋, I'm SOKNA Chun</h1>
+<h3 align="left">A Software Engineer and Computer Science student at RUPP.</h3>
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hello, I'm Chun Sokna
-</h1>
+- 🔭 I’m currently working on [Smart Parking Backend](https://github.com/CHUNSOKNA1997/smart-parking-system)
 
-</div>
+- 🌱 I’m currently learning **Spring Boot, Spring Security, and Spring JPA**
 
-Welcome to my GitHub profile!  
-I'm a **Software Engineer** and **Computer Science student at RUPP**.
+- 👨‍💻 All of my projects are available at [https://codewna.live/](https://codewna.live/)
 
-I enjoy building **scalable backend systems**, working with **modern web technologies**.
+- 📫 How to reach me **chun.sokna.1222@gmail.com**
 
----
-
-<div align="center">
-
-## 🚀 Tech Stack & Tools
-
+<h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=java,spring,laravel,react,nextjs,typescript,javascript,html,css,tailwind,mysql,postgresql,docker,git,aws&theme=dark" />
 
-
-</div>
-
----
-
-## 💻 Projects I'm Proud Of
-
-### 🚀 [Spring Boot Shopping Cart API](https://github.com/CHUNSOKNA1997/spring-boot-shopping-cart-api)
-A Spring Boot REST API with JWT authentication.
-
-### 🚀 [Smart Parking Back-End](https://github.com/CHUNSOKNA1997/smart-parking-system)
-A production-ready smart parking backend for Mobile App.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHUNSOKNA1997&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUNSOKNA1997&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
----
-
-## 📬 Get in Touch
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/chun-sokna-449bba32b/)
-- 📧 chun.sokna.1222@gmail.com
-- 💬 [Telegram](https://t.me/chunSokna_cs)
-
----
-
-Thanks for visiting!  
-_I’m always learning and building — feel free to explore my repositories or reach out._
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sokna-chun-449bba32b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sokna-chun-449bba32b" height="30" width="40" /></a>
+</p>
