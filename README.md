@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm SOKNA Chun</h1>
 <h3 align="left">A Software Engineer and Computer Science student at RUPP.</h3>
 
-- 🔭 I’m currently working on [Smart Parking Backend](https://github.com/CHUNSOKNA1997/smart-parking-system)
+- 🔭 I’m currently working on [Smart Parking API](https://github.com/CHUNSOKNA1997/smart-parking-api)
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security, and Spring JPA**
 
