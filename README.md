@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security, and Spring JPA**
 
-- 👨‍💻 All of my projects are available at [https://codewna.live/](https://codewna.live/)
+- 👨‍💻 All of my projects are available at [https://sokknachun.vercel.app/](https://sokknachun.vercel.app/)
 
 - 📫 How to reach me **chun.sokna.1222@gmail.com**
 
