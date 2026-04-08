@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm SOKNA Chun</h1>
-<h3 align="left">A Software Engineer and Computer Science student at RUPP.</h3>
+<h1 align="left">Ayoo👋, It is me SOKNA Chun</h1>
 
 - 🌱 I’m currently working as a **Junior Web Developer**
 
@@ -8,7 +7,7 @@
 - 📫 How to reach me **chun.sokna.1222@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=spring,java,laravel,nextjs,react,typescript,tailwind,mysql,postgresql,docker,git,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=expressjs,nextjs,spring,java,laravel,react,typescript,tailwind,mysql,postgresql,docker,git,aws&theme=dark" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
