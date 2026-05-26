@@ -7,7 +7,7 @@
 - 📫 How to reach me **chun.sokna.1222@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=expressjs,nextjs,spring,java,laravel,react,typescript,tailwind,mysql,postgresql,linux,docker,git,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=expressjs,nodejs,nextjs,react,typescript,tailwind,mysql,postgresql,linux,docker,git,aws&theme=dark" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
