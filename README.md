@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working as a **Junior Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://sokknachun.vercel.app/](https://sokknachun.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sokna.vercel.app](https://sokna.vercel.app)
 
 - 📫 How to reach me **chun.sokna.1222@gmail.com**
 
