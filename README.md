@@ -1,8 +1,8 @@
 <h1 align="left">Ayoo👋, It is me SOKNA Chun</h1>
 
-- 🌱 I’m currently working as a **Junior Web Developer**
+- 🌱 I am a **Full-Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://sokna.vercel.app](https://sokna.vercel.app)
+- 👨‍💻 All of my projects are available at [https://sokna.me/](https://sokna.me/)
 
 - 📫 How to reach me **chun.sokna.1222@gmail.com**
 
