@@ -1,6 +1,6 @@
 <h1 align="left">Ayoo👋, It is me SOKNA Chun</h1>
 
-- 🌱 I am a **Full-Stack Developer**
+- 🌱 I am a **Front-end Software Developer**
 
 - 👨‍💻 All of my projects are available at [https://sokna.me/](https://sokna.me/)
 
