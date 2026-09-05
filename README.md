@@ -2,7 +2,7 @@
 
 - 🌱 I am specialist in **Front-end Software Development**
 
-- 👨‍💻 All of my projects are available at [https://sokna.me/](https://sokna.me/)
+- 👨‍💻 All of my projects are available at [https://sokna.me](https://sokna.me)
 
 - 📫 How to reach me **chun.sokna.1222@gmail.com**
 
